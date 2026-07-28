@@ -413,12 +413,12 @@ During my internship at CodeAlpha, I worked on practical programming projects an
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiqa-umer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqa-umer&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faiqa-umer&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqa-umer&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=faiqa-umer&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=faiqa-umer&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -426,7 +426,7 @@ During my internship at CodeAlpha, I worked on practical programming projects an
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faiqa-umer&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=faiqa-umer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
 </p>
 
 ---
