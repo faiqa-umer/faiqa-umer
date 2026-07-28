@@ -423,14 +423,6 @@ During my internship at CodeAlpha, I worked on practical programming projects an
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faiqa-umer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
-</p>
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
