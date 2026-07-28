@@ -83,7 +83,7 @@ My journey so far has included software development, database management, object
 ## Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,supabase,firebase" />
 </p>
 
 ## AI / ML & Data
@@ -413,11 +413,6 @@ During my internship at CodeAlpha, I worked on practical programming projects an
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiqa-umer&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqa-umer&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=faiqa-umer&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
@@ -427,14 +422,6 @@ During my internship at CodeAlpha, I worked on practical programming projects an
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiqa-umer&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/faiqa-umer/faiqa-umer/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
